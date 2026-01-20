@@ -1,0 +1,15 @@
+G:\PTPMQL\NET_CORE\netcore\NewApp\bin\Debug\net10.0\NewApp.exe
+G:\PTPMQL\NET_CORE\netcore\NewApp\bin\Debug\net10.0\NewApp.deps.json
+G:\PTPMQL\NET_CORE\netcore\NewApp\bin\Debug\net10.0\NewApp.runtimeconfig.json
+G:\PTPMQL\NET_CORE\netcore\NewApp\bin\Debug\net10.0\NewApp.dll
+G:\PTPMQL\NET_CORE\netcore\NewApp\bin\Debug\net10.0\NewApp.pdb
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.AssemblyInfoInputs.cache
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.AssemblyInfo.cs
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.csproj.CoreCompileInputs.cache
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.sourcelink.json
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.dll
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\refint\NewApp.dll
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.pdb
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\NewApp.genruntimeconfig.cache
+G:\PTPMQL\NET_CORE\netcore\NewApp\obj\Debug\net10.0\ref\NewApp.dll
